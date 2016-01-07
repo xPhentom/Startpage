@@ -1,0 +1,146 @@
+body{
+	background-color: #E0E0E0;
+	background-image: url('img/snow.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+	overflow-y: hidden;
+	overflow-x:hidden;
+
+	font-family: verdana;
+}
+
+#wrapper{
+	margin-top: 5%;
+	background-color: rgba(0, 0, 0, 0.5); 
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#facebook{
+	text-align: right;
+	height:50px;
+	margin-right:50%;
+	padding-right: 50px;
+	margin-bottom: 20px;
+	line-height: 50px;
+	font-size: 3em;
+	color: white;
+	background-color: rgba(84, 132, 255, 0.5);
+	}
+#facebook:hover{
+	background-color: rgba(84, 132, 255, 1);
+}
+
+#twitter{
+	text-align: left;
+	height:50px;
+	margin-left:50%;
+	padding-left: 50px;
+	line-height: 50px;
+	font-size: 3em;
+	margin-bottom: 20px;
+	color: white;
+	background-color: rgba(86, 213, 252, 0.5);
+	}
+
+#twitter:hover{
+	background-color: rgba(86, 213, 252, 1);
+}
+
+#youtube{
+	text-align: right;
+	height:50px;
+	margin-right:50%;
+	padding-right: 50px;
+	margin-bottom: 20px;
+	line-height: 50px;
+	font-size: 3em;
+	margin-bottom: 20px;
+	color: white;
+	background-color: rgba(255, 0, 0, 0.5);
+}
+
+#youtube:hover{
+	background-color: rgba(255, 0, 0, 1);
+}
+
+#chan{
+	text-align: left;
+	height:50px;
+	margin-left:50%;
+	padding-left: 50px;
+	line-height: 50px;
+	font-size: 3em;
+	margin-bottom: 20px;
+	color: white;
+	background-color: rgba(0, 255, 9, 0.5);
+}
+
+#chan:hover{
+	background-color: rgba(0, 255, 9, 1);
+}
+
+#toledo{
+	text-align: right;
+	height:50px;
+	margin-right:50%;
+	padding-right: 50px;
+	margin-bottom: 20px;
+	line-height: 50px;
+	font-size: 3em;
+	margin-bottom: 20px;
+	color: white;
+	background-color: rgba(173, 250, 255, 0.5);
+}
+
+#toledo:hover{
+	background-color: rgba(173, 250, 255, 1);
+}
+
+#reddit{
+	text-align: left;
+	height:50px;
+	margin-left:50%;
+	padding-left: 50px;
+	line-height: 50px;
+	font-size: 3em;
+	margin-bottom: 20px;
+	color: white;
+	background-color: rgba(245, 112, 123, 0.5);
+}
+
+#reddit:hover{
+	background-color: rgba(245, 112, 123, 1);
+}
+
+.searchForm{
+	margin-left: 40%;
+	margin-top: 5%;
+}
+
+.searchBar{
+	background-color: rgba(15,15,15,0.5);
+	border-style: none;
+	color:white;
+	width:400px;
+	height: 50px;
+	font-size: 2em;
+}
+
+.searchBar:hover{
+	background-color: rgba(15,15,15,0.8);
+}
+.searchBar:focus{
+	background-color: rgba(15,15,15,0.8);
+}
+
+a{
+	text-decoration: none;
+}
+
+
